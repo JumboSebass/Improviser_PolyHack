@@ -1,4 +1,4 @@
-# Improviser_Polyhack
+# The Improviser
 
 POLYHACK 2016 PROJECT by Sebastian Coates, Jake Luria, and John Tagliaferro
 
